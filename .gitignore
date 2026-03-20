@@ -1,0 +1,7 @@
+microservices/
+node_modules/
+test-project/
+.env
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/server-github": "^2025.4.8",
+    "supergateway": "^3.4.3"
+  }
+}

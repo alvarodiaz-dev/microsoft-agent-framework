@@ -5,3 +5,4 @@ test-project/
 __pycache__/
 *.pyc
 .venv/
+microservice/

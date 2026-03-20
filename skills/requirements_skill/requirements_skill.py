@@ -13,7 +13,7 @@ RULES — MUST FOLLOW:
 - NO explanations
 - ONLY valid JSON object
 
-OUTPUT JSON SCHEMA REQUIRED:
+JSON SCHEMA REQUIRED:
 {
   "service_name": "string",
   "description": "string",

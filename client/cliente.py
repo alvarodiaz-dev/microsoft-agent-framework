@@ -1,5 +1,8 @@
 from agent_framework.openai import OpenAIResponsesClient
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def create_client():
     return OpenAIResponsesClient(
